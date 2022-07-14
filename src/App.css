@@ -1,0 +1,20 @@
+.chart
+{
+    margin: auto;
+    width: 65%;
+    border: solid magenta 3px;
+    padding: 2%;
+    
+}
+
+*
+{
+    text-align: center;
+    background-color: lightcyan;
+}
+
+h2
+{
+    color: blue;
+}
+
